@@ -1,18 +1,18 @@
-# Pizza-Sales-Analysis-
+**Objective:**
+Our primary goal was to utilize data-driven approaches to uncover actionable insights that could drive decision-making processes within our pizza business.
 
-Gain valuable insights into customer preferences and business performance with our Pizza Sales Analysis. Key performance metrics include:
+Key Metrics Analyzed:
 
-Total Revenue: Sum of all pizza order prices.
-Average Order Value: Average amount spent per order.
-Total Pizzas Sold: Sum of all pizza quantities sold.
-Total Orders: Number of orders placed.
-Average Pizzas Per Order: Average number of pizzas sold per order.
-Visualize key trends with:
+Total Revenue: We calculated the sum of the total price of all pizza orders, providing a comprehensive overview of our revenue streams.
+Average Order Value: By dividing the total revenue by the total number of orders, we determined the average amount spent per order, aiding in understanding customer spending patterns.
+Total Pizzas Sold: This metric revealed the total quantity of pizzas sold during the analyzed period, showcasing product demand.
+Total Orders: We examined the total number of orders placed to gauge overall customer engagement and market penetration.
+Average Pizzas Per Order: Calculated by dividing the total number of pizzas sold by the total number of orders, this metric offered insights into customer behavior regarding order size and preferences.
+Outcome:
+Through rigorous analysis, we gained valuable insights into customer preferences, identified trends, and uncovered areas for potential growth and optimization within our pizza business. These insights enabled us to make informed decisions aimed at enhancing customer satisfaction and driving business performance.
 
-Daily Trend for Total Orders: Bar chart displaying daily order volumes.
-Monthly Trend for Total Orders: Line chart illustrating hourly order trends.
-Percentage of Sales by Pizza Category: Pie chart showing distribution across pizza categories.
-Percentage of Sales by Pizza Size: Pie chart representing sales distribution by pizza sizes.
-Total Pizzas Sold by Pizza Category: Funnel chart comparing sales performance across categories.
-Top 5 Best Sellers: Bar chart highlighting best-selling pizzas by Revenue, Total Quantity, and Total Orders.
-Bottom 5 Worst Sellers: Bar chart showcasing underperforming pizzas by Revenue, Total Quantity, and Total Orders.
+Tools Used:
+Our analysis was conducted utilizing advanced analytics tools like Power BI, SQL and techniques, ensuring accuracy and reliability in our findings.
+
+Conclusion:
+The pizza sales analysis project provided invaluable insights into our business landscape, equipping us with the knowledge needed to make data-driven decisions and drive sustainable growth in a competitive market environment.
